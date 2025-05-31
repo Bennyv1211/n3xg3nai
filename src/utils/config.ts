@@ -8,14 +8,25 @@ const templateConfig: TemplateConfig = {
   },
   // Draws grid behind main container
   backgroundGrid: false,
-  logo: "/logo.svg",
+  logo: "/logo.png",
   theme: "corporate",
   // Forces theme to be chosen above, no matter what user prefers
   forceTheme: false,
   // Shows switch to toggle between dark and light modes
   showThemeSwitch: true,
-  appStoreLink: "",
-  googlePlayLink: "https://play.google.com/store/apps/details?id=com.n3xg3nai.evolve", // or leave blank if using two buttons manually
+  apps: [
+    {
+      name: "Evolve",
+      googlePlayLink: "https://play.google.com/store/apps/details?id=com.n3xg3nai.evolve",
+      appStoreLink: "",
+    },
+    {
+      name: "N3xG3n Chatbot",
+      googlePlayLink: "https://play.google.com/store/apps/details?id=com.n3xg3n.chatbot",
+      appStoreLink: "",
+    }
+  ],
+
   footer: {
     legalLinks: {
       termsAndConditions: true,

@@ -1,8 +1,12 @@
 {
   "extends": "astro/tsconfigs/strict",
   "compilerOptions": {
+    "target": "ES2020", // ✅ Fixes `Array.from` error
+    "lib": ["DOM", "ESNext"], // ✅ Modern browser & JS features
     "jsx": "react-jsx",
     "jsxImportSource": "react",
+    "moduleResolution": "node", // ✅ Helps with resolving node_modules
+    "module": "ESNext",
     "resolveJsonModule": true,
     "baseUrl": "./src",
     "paths": {

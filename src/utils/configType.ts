@@ -11,6 +11,14 @@ export type TemplateConfig = {
     showThemeSwitch: boolean;
     googlePlayLink?: string | undefined;
     appStoreLink?: string | undefined;
+
+    // ✅ Added custom apps field
+    apps?: {
+        name: string;
+        googlePlayLink: string;
+        appStoreLink?: string;
+    }[];
+
     termsAndConditions: {
         seo: {
             title: string;
@@ -18,6 +26,7 @@ export type TemplateConfig = {
         };
         content: string;
     };
+
     privacyPolicy: {
         seo: {
             title: string;
@@ -25,6 +34,7 @@ export type TemplateConfig = {
         };
         content: string;
     };
+
     cookiesPolicy: {
         seo: {
             title: string;
@@ -32,6 +42,7 @@ export type TemplateConfig = {
         };
         content: string;
     };
+
     footer: {
         links: {
             title: string;
@@ -48,6 +59,7 @@ export type TemplateConfig = {
             twitter?: string | undefined;
         } | undefined;
     };
+
     topNavbar: {
         cta?: string | undefined;
         disableWidthAnimation?: boolean | undefined;
@@ -58,12 +70,14 @@ export type TemplateConfig = {
         hideGooglePlay?: boolean | undefined;
         hideAppStore?: boolean | undefined;
     };
+
     appBanner?: {
         id?: string | undefined;
         title: string;
         subtitle: string;
         screenshots: string[];
     } | undefined;
+
     home: {
         seo: {
             title: string;
@@ -133,4 +147,4 @@ export type TemplateConfig = {
             }[] | undefined;
         } | undefined;
     };
-}
+};
