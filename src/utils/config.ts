@@ -1,10 +1,10 @@
 import type { TemplateConfig } from "./configType";
 
 const templateConfig: TemplateConfig = {
-  name: "Lorem Ipsum",
+  name: "N3xG3n AI Solutions",
   seo: {
-    title: "Mobile App Landing Template",
-    description: "Mobile App Landing Template",
+    title: "N3xG3n AI – Smart Apps for Everyday Life",
+    description: "Explore innovative mobile apps like Evolve and N3xG3n Chatbot — designed to elevate your wellness, productivity, and communication.",
   },
   // Draws grid behind main container
   backgroundGrid: false,
@@ -14,9 +14,8 @@ const templateConfig: TemplateConfig = {
   forceTheme: false,
   // Shows switch to toggle between dark and light modes
   showThemeSwitch: true,
-  appStoreLink: "https://apps.apple.com/us/app/google/id284815942",
-  googlePlayLink:
-    "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox",
+  appStoreLink: "",
+  googlePlayLink: "https://play.google.com/store/apps/details?id=com.n3xg3nai.evolve", // or leave blank if using two buttons manually
   footer: {
     legalLinks: {
       termsAndConditions: true,
@@ -49,7 +48,7 @@ const templateConfig: TemplateConfig = {
   },
   appBanner: {
     id: "app-banner",
-    title: "Download Our Mobile App Today!",
+    title: "Download Our Mobile Apps Today!",
     subtitle:
       "Unlock the full potential of our services with seamless access at your fingertips. Stay connected, informed, and in control wherever you are.",
     screenshots: [
@@ -144,26 +143,26 @@ const templateConfig: TemplateConfig = {
     },
     features: {
       id: "features",
-      title: "Transform Your Daily Routine",
+      title: "Why Choose N3xG3n AI Apps?",
       subtitle:
-        "Elevate your lifestyle with our innovative mobile app, designed for seamless living",
+          "Each app is built with precision, privacy, and usability in mind. Here's what makes them stand out.",
       cards: [
         {
-          title: "Seamless Integration",
+          title: "Health & Wellness AI",
           subtitle:
-            "Connect effortlessly with all your devices, ensuring smooth and efficient workflows across different platforms and applications without any disruptions",
+              "Evolve tracks your goals, workouts, and habits with machine-learning insights and tailored feedback.",
           icon: "/3D/link-front-color.webp",
         },
         {
-          title: "24/7 Customer Support",
+          title: "Conversational Intelligence",
           subtitle:
-            "Get assistance whenever you need it with our dedicated customer support team, available around the clock to help resolve any issues you may encounter",
+              "N3xG3n Chatbot brings fast, multilingual, offline-friendly AI to your pocket.",
           icon: "/3D/clock-front-color.webp",
         },
         {
-          title: "Intuitive Design",
+          title: "Secure by Design",
           subtitle:
-            "Navigate through our intuitive and easy-to-use interface designed to enhance user experience, making it accessible for users of all skill levels",
+              "Sleek design and smart UX mean users of any level can start fast and feel at home.",
           icon: "/3D/roll-brush-front-color.webp",
         },
         {
