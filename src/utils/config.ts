@@ -209,9 +209,9 @@ const templateConfig: TemplateConfig = {
             "We offer a 30-day return policy for unused and unopened items. If you are not satisfied with your purchase, please contact our customer support team to initiate a return. Refunds will be processed within 7-10 business days after we receive the returned item.",
         },
         {
-          question: "How can I contact customer support?",
+          question: "How can I contact customer support? Or Delete my Account?",
           answer:
-            "You can contact our customer support team through the 'Contact Us' page on our website. We are available via email, phone, and live chat. Our support hours are Monday to Friday, 9 AM to 5 PM.",
+            "You can contact our customer support team by emailing info@n3xg3nai.com. We are available via email. Our support hours are Monday to Friday, 9 AM to 5 PM.",
         },
       ],
     },
