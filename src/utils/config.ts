@@ -3,8 +3,8 @@ import type { TemplateConfig } from "./configType";
 const templateConfig: TemplateConfig = {
   name: "N3X G3N AI",
   seo: {
-    title: "N3xG3n AI – Smart Apps for Everyday Life",
-    description: "Explore innovative mobile apps like Evolve and N3xG3n Chatbot — designed to elevate your wellness, productivity, and communication.",
+    title: "N3X G3N AI – Smart Apps for Everyday Life",
+    description: "Explore innovative mobile apps like Evolve and N3X G3N AI Chatbot — designed to elevate your wellness, productivity, and communication.",
   },
   // Draws grid behind main container
   backgroundGrid: false,
@@ -21,7 +21,7 @@ const templateConfig: TemplateConfig = {
       appStoreLink: "",
     },
     {
-      name: "N3X G3N AI BOT",
+      name: "N3X G3N AI CHATBOT",
       googlePlayLink: "https://play.google.com/store/apps/details?id=com.n3xg3n.chatbot",
       appStoreLink: "",
     }
