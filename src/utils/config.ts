@@ -112,36 +112,49 @@ const templateConfig: TemplateConfig = {
         "Explore our comprehensive step-by-step guide to understand how our process ensures seamless and effective results",
       steps: [
         {
-          title: "Install the App",
+          title: "Download the App",
           subtitle:
-            "Download and install the app on your device to get started quickly and easily.",
+              "Get started by downloading N3xG3n Chatbot from the Google Play Store. It's quick, free, and installs in seconds.",
           image: "/stock/01.webp",
         },
         {
-          title: "Create an Account",
+          title: "Start Free Trial",
           subtitle:
-            "Sign up by entering your personal details and verifying your email to create a new account in just a few minutes.",
+              "Open the app and tap the red ✖️ icon to begin your trial period. No commitment — just explore!",
           image: "/stock/02.webp",
         },
         {
-          title: "Set Up Your Profile",
+          title: "Sign Up for Full Access",
           subtitle:
-            "Complete your profile by adding necessary information and preferences to personalize your experience on the platform.",
+              "Click the 'Sign Up' button and unlock everything for just $1.99/week — cheaper than a cup of coffee ☕.",
           image: "/stock/03.webp",
         },
         {
-          title: "Explore Features",
+          title: "Chat Freely with AI",
           subtitle:
-            "Navigate through the app to discover various features and tools designed to enhance your productivity and engagement.",
+              "Use the chatbot to ask anything. A green circle means it's online. Try voice input or select a personality or language — N3xG3n adapts instantly.",
           image: "/stock/04.webp",
         },
         {
-          title: "Connect with Others",
+          title: "Use Image GPT Chat",
           subtitle:
-            "Start connecting with friends, colleagues, and like-minded individuals to expand your network and collaborate efficiently.",
+              "Snap or upload an image to ask complex questions. Get instant summaries or just request an 'answer only'. (📢 Please don’t use for exams!)",
           image: "/stock/05.webp",
         },
+        {
+          title: "Download Evolve",
+          subtitle:
+              "Install Evolve and sign up easily with Google. After setup, try the app completely free — ask questions or share your mood anytime.",
+          image: "/stock/06.webp",
+        },
+        {
+          title: "Stay Well for Less",
+          subtitle:
+              "If you love it, unlock everything in Evolve for just $0.99/month — no AI wellness app is more affordable.",
+          image: "/stock/07.webp",
+        },
       ],
+
     },
     features: {
       id: "features",
