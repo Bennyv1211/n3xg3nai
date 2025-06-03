@@ -225,43 +225,8 @@ const templateConfig: TemplateConfig = {
         "/screenshots/3.webp",
       ],
       rewards: ["App of the year \n 1st", "Product of the day"],
-      usersDescription: "100+ people already using the app",
+      usersDescription: "200+ people already using the app",
       headlineMark: [1, 3],
-    },
-    pricing: {
-      id: "pricing",
-      title: "Pricing",
-      subtitle: "Flexible costs to meet your budget",
-      actionText: "Download the app",
-      plans: [
-        {
-          title: "Basic Plan",
-          price: "$9.99/month",
-          rows: ["Access to basic features", "Email support", "1 GB storage"],
-        },
-        {
-          title: "Standard Plan",
-          price: "$19.99/month",
-          featured: true,
-          rows: [
-            "Access to all basic features",
-            "Priority email support",
-            "10 GB storage",
-            "Monthly webinars",
-          ],
-        },
-        {
-          title: "Premium Plan",
-          price: "$29.99/month",
-          rows: [
-            "Access to all features",
-            "24/7 support",
-            "100 GB storage",
-            "Weekly webinars",
-            "Exclusive content",
-          ],
-        },
-      ],
     },
   },
   privacyPolicy: {
@@ -275,7 +240,7 @@ const templateConfig: TemplateConfig = {
 
 ## Introduction
 
-Welcome to [Your App Name] (the "App"). [Your Company Name] ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share your personal information when you use our App.
+Welcome to N3X G3N AI (the "App"). N3X G3N AI ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share your personal information when you use our App.
 
 ## Information We Collect
 
@@ -323,25 +288,23 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-[Your Company Name]  
-[Your Contact Information]  
-[Email Address]  
-[Phone Number (optional)]
+N3X G3N AI SOLUTIONS
+EMAIL: info@n3xg3nai.com
 
 `,
   },
   cookiesPolicy: {
     seo: {
-      title: "Cookies Policy - Mobile App Landing Template",
+      title: "Cookies Policy -N3X G3N AI SOLUTIONS",
       description: "Cookies Policy",
     },
     content: `# Cookies Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 05/2025
 
 ## Introduction
 
-This Cookies Policy explains how [Your Company Name] ("we," "our," or "us") uses cookies and similar technologies to recognize you when you visit our app, [Your App Name] (the "App"). It explains what these technologies are and why we use them, as well as your rights to control their use.
+This Cookies Policy explains how  N3X G3N AI SOLUTIONS ("we," "our," or "us") uses cookies and similar technologies to recognize you when you visit our app, N3X G3N AI (the "Apps"). It explains what these technologies are and why we use them, as well as your rights to control their use.
 
 ## What Are Cookies?
 
@@ -396,29 +359,28 @@ We may update this Cookies Policy from time to time. We will notify you of any c
 
 If you have any questions or concerns about our use of cookies, please contact us at:
 
-[Your Company Name]  
-[Your Contact Information]  
-[Email Address]  
-[Phone Number (optional)]
+N3X G3N AI SOLUTIONS 
+EMAIL : info@n3xg3nai.com
+
 `,
   },
   termsAndConditions: {
     seo: {
-      title: "Terms and conditions - Mobile App Landing Template",
+      title: "Terms and conditions - N3X G3N AI Mobile Apps ",
       description: "Terms and conditions",
     },
     content: `# Terms and Conditions
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 5/2025
 
 ## Introduction
 
-Welcome to [Your App Name] (the "App"). These Terms and Conditions ("Terms") govern your use of the App provided by [Your Company Name] ("we," "our," or "us"). By accessing or using our App, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the App.
+Welcome to N3X G3N AI SOLUTIONS (the "Apps"). These Terms and Conditions ("Terms") govern your use of the App provided by N3X G3N AI ("we," "our," or "us"). By accessing or using our Apps, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the App.
 
 ## Use of the App
 
 ### 1. Eligibility
-To use our App, you must be at least [Insert Age] years old and capable of entering into a legally binding agreement. By using the App, you represent and warrant that you meet these eligibility requirements.
+To use our App, you must be at least 13 years old and capable of entering into a legally binding agreement. By using the Apps, you represent and warrant that you meet these eligibility requirements.
 
 ### 2. User Accounts
 - **Registration:** You may be required to create an account to access certain features of the App. You must provide accurate and complete information when creating your account.
@@ -427,31 +389,31 @@ To use our App, you must be at least [Insert Age] years old and capable of enter
 
 ### 3. Prohibited Conduct
 You agree not to:
-- Use the App for any illegal or unauthorized purpose.
-- Interfere with or disrupt the operation of the App or the servers or networks used to make the App available.
+- Use the Apps for any illegal or unauthorized purpose.
+- Interfere with or disrupt the operation of the Apps or the servers or networks used to make the Apps available.
 - Upload or transmit any viruses, malware, or other harmful code.
-- Attempt to gain unauthorized access to any part of the App or to other accounts, systems, or networks connected to the App.
+- Attempt to gain unauthorized access to any part of the Apps or to other accounts, systems, or networks connected to the Apps.
 
 ## Intellectual Property
 
 ### 1. Ownership
-All content and materials available on the App, including but not limited to text, graphics, logos, and software, are the property of [Your Company Name] or its licensors and are protected by intellectual property laws.
+All content and materials available on the Apps, including but not limited to text, graphics, logos, and software, are the property of N3X G3N AI or its licensors and are protected by intellectual property laws.
 
 ### 2. License
-We grant you a limited, non-exclusive, non-transferable license to access and use the App for your personal, non-commercial use. This license is subject to your compliance with these Terms.
+We grant you a limited, non-exclusive, non-transferable license to access and use the Apps for your personal, non-commercial use. This license is subject to your compliance with these Terms.
 
 ### 3. Restrictions
 You may not:
-- Reproduce, distribute, modify, or create derivative works of any content or materials on the App without our prior written consent.
-- Use any data mining, robots, or similar data gathering or extraction methods on the App.
+- Reproduce, distribute, modify, or create derivative works of any content or materials on the Apps without our prior written consent.
+- Use any data mining, robots, or similar data gathering or extraction methods on the Apps.
 
 ## Disclaimers and Limitation of Liability
 
 ### 1. Disclaimers
-The App is provided on an "as is" and "as available" basis. We make no warranties or representations about the accuracy or completeness of the content available on or through the App. We disclaim all warranties, whether express or implied, including any warranties of merchantability, fitness for a particular purpose, and non-infringement.
+The Apps is provided on an "as is" and "as available" basis. We make no warranties or representations about the accuracy or completeness of the content available on or through the Apps. We disclaim all warranties, whether express or implied, including any warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
 ### 2. Limitation of Liability
-To the fullest extent permitted by law, [Your Company Name] shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:
+To the fullest extent permitted by law, N3X G3N AI SOLUTIONS shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:
 - Your use or inability to use the App;
 - Any unauthorized access to or use of our servers and/or any personal information stored therein;
 - Any bugs, viruses, or other harmful code that may be transmitted to or through the App;
@@ -459,24 +421,22 @@ To the fullest extent permitted by law, [Your Company Name] shall not be liable 
 
 ## Indemnification
 
-You agree to indemnify, defend, and hold harmless [Your Company Name], its affiliates, and their respective officers, directors, employees, and agents from and against any claims, liabilities, damages, losses, and expenses, including without limitation reasonable legal and accounting fees, arising out of or in any way connected with your access to or use of the App or your violation of these Terms.
+You agree to indemnify, defend, and hold harmless N3X G3N AI , its affiliates, and their respective officers, directors, employees, and agents from and against any claims, liabilities, damages, losses, and expenses, including without limitation reasonable legal and accounting fees, arising out of or in any way connected with your access to or use of the App or your violation of these Terms.
 
 ## Governing Law
 
-These Terms shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law principles. You agree to submit to the exclusive jurisdiction of the courts located in [Your Jurisdiction] to resolve any legal matter arising from these Terms.
+These Terms shall be governed by and construed in accordance with the laws of  GOOGLE PLAY, without regard to its conflict of law principles. You agree to submit to the exclusive jurisdiction of the courts located in GOOGLE PLAY STORE to resolve any legal matter arising from these Terms.
 
 ## Changes to These Terms
 
-We may update these Terms from time to time. We will notify you of any changes by posting the new Terms on this page and updating the "Effective Date" above. Your continued use of the App after such changes signifies your acceptance of the revised Terms.
+We may update these Terms from time to time. We will notify you of any changes by posting the new Terms on this page and updating the "Effective Date" above. Your continued use of the Apps after such changes signifies your acceptance of the revised Terms.
 
 ## Contact Us
 
 If you have any questions or concerns about these Terms, please contact us at:
 
-[Your Company Name]  
-[Your Contact Information]  
-[Email Address]  
-[Phone Number (optional)]
+NEX GEN AI SOLUTIONS  
+Email: info@n3xg3nai.com
 `,
   },
 };
