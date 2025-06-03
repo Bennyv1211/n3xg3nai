@@ -115,7 +115,7 @@ const templateConfig: TemplateConfig = {
           title: "Download the App",
           subtitle:
               "Get started by downloading N3xG3n Chatbot from the Google Play Store. It's quick, free, and installs in seconds.",
-          image: "/stock/1.jpeg",
+          image: "/stock/01.jpeg",
         },
         {
           title: "Start Free Trial",
