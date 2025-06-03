@@ -115,7 +115,7 @@ const templateConfig: TemplateConfig = {
           title: "Download the App",
           subtitle:
               "Get started by downloading N3xG3n Chatbot from the Google Play Store. It's quick, free, and installs in seconds.",
-          image: "/stock/1.jpg",
+          image: "/stock/1.jpeg",
         },
         {
           title: "Start Free Trial",
@@ -133,7 +133,7 @@ const templateConfig: TemplateConfig = {
           title: "Chat Freely with AI",
           subtitle:
               "Use the chatbot to ask anything. A green circle means it's online. Try voice input or select a personality or language — N3xG3n adapts instantly.",
-          image: "/stock/2.jpg",
+          image: "/stock/2.jpeg",
         },
         {
           title: "Use Image GPT Chat",
