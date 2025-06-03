@@ -115,7 +115,7 @@ const templateConfig: TemplateConfig = {
           title: "Download the App",
           subtitle:
               "Get started by downloading N3xG3n Chatbot from the Google Play Store. It's quick, free, and installs in seconds.",
-          image: "/stock/01.jpeg",
+          image: "/stock/0.0.png",
         },
         {
           title: "Start Free Trial",
@@ -145,13 +145,13 @@ const templateConfig: TemplateConfig = {
           title: "Download Evolve",
           subtitle:
               "Install Evolve and sign up easily with Google. After setup, try the app completely free — ask questions or share your mood anytime.",
-          image: "/stock/4.jpg",
+          image: "/stock/0.png",
         },
         {
           title: "Stay Well for Less",
           subtitle:
               "If you love it, unlock everything in Evolve for just $0.99/month — no AI wellness app is more affordable.",
-          image: "/stock/3.jpeg",
+          image: "/stock/2.jpeg",
         },
       ],
 
