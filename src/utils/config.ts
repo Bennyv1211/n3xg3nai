@@ -33,11 +33,6 @@ const templateConfig: TemplateConfig = {
       cookiesPolicy: true,
       privacyPolicy: true,
     },
-    socials: {
-      instagram: "https://instagram.com/google",
-      facebook: "https://facebook.com/google",
-      twitter: "https://x.com/google",
-    },
     links: [
       { href: "/#features", title: "Features" },
       { href: "/#how-it-works", title: "How it works" },
@@ -108,10 +103,7 @@ const templateConfig: TemplateConfig = {
     partners: {
       title: "As seen on",
       logos: [
-        "/misc/companies/apple.svg",
-        "/misc/companies/aws.svg",
         "/misc/companies/google.svg",
-        "/misc/companies/tumblr.svg",
       ],
     },
     howItWorks: {
@@ -154,7 +146,7 @@ const templateConfig: TemplateConfig = {
     },
     features: {
       id: "features",
-      title: "Why Choose N3xG3n AI Apps?",
+      title: "Why Choose N3X G3N AI Apps?",
       subtitle:
           "Each app is built with precision, privacy, and usability in mind. Here's what makes them stand out.",
       cards: [
@@ -204,8 +196,8 @@ const templateConfig: TemplateConfig = {
         "/screenshots/2.webp",
         "/screenshots/3.webp",
       ],
-      rewards: ["App of the year \n 1st", "Product of the day"],
-      usersDescription: "200+ people already using the app",
+      rewards: ["Newest Thriving APP", "APP Value of the day"],
+      usersDescription: "300+ people already using the app",
       headlineMark: [1, 3],
     },
   },
