@@ -103,7 +103,7 @@ const templateConfig: TemplateConfig = {
     partners: {
       title: "As seen on",
       logos: [
-        "/misc/companies/google.svg",
+        "/misc/companies/googleplay.svg",
       ],
     },
     howItWorks: {
