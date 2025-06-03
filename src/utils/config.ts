@@ -58,7 +58,7 @@ const templateConfig: TemplateConfig = {
     subtitle:
       "Unlock the full potential of our services with seamless access at your fingertips. Stay connected, informed, and in control wherever you are.",
     screenshots: [
-      "/screenshots/1.jpg",
+      "/screenshots/8.jpg",
       "/screenshots/2.jpg",
       "/screenshots/3.jpg",
     ],
