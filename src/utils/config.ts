@@ -103,7 +103,7 @@ const templateConfig: TemplateConfig = {
     partners: {
       title: "Get all apps on",
       logos: [
-        "/misc/companies/google.eps",
+        "/misc/companies/google.png",
       ],
     },
     howItWorks: {
