@@ -145,13 +145,13 @@ const templateConfig: TemplateConfig = {
           title: "Download Evolve",
           subtitle:
               "Install Evolve and sign up easily with Google. After setup, try the app completely free — ask questions or share your mood anytime.",
-          image: "/stock/4.webp",
+          image: "/stock/4.jpg",
         },
         {
           title: "Stay Well for Less",
           subtitle:
               "If you love it, unlock everything in Evolve for just $0.99/month — no AI wellness app is more affordable.",
-          image: "/stock/3.webp",
+          image: "/stock/3.jpeg",
         },
       ],
 
