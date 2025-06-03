@@ -64,8 +64,8 @@ const templateConfig: TemplateConfig = {
   },
   home: {
     seo: {
-      title: "Mobile App Landing Template",
-      description: "Mobile App Landing Template",
+      title: "Image GPT Chat ( N3X G3N AI Chat )",
+      description: "Image Chat GBT with voice detection",
     },
     testimonials: {
       id: "testimonials",
