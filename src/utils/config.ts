@@ -200,7 +200,6 @@ const templateConfig: TemplateConfig = {
         "/screenshots/8.jpg",
 
       ],
-      rewards: ["Newest Thriving APP", "APP Value of the day"],
       usersDescription: "300+ people already using the app",
       headlineMark: [1, 3],
     },
