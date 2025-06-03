@@ -197,8 +197,8 @@ const templateConfig: TemplateConfig = {
         "/screenshots/3.jpg",
         "/screenshots/4.jpg",
         "/screenshots/5.jpg",
-        "/screenshots/6.jpg",
-        "/screenshots/7.jpg",
+        "/screenshots/8.jpg",
+
       ],
       rewards: ["Newest Thriving APP", "APP Value of the day"],
       usersDescription: "300+ people already using the app",
