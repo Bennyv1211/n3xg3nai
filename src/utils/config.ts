@@ -115,7 +115,7 @@ const templateConfig: TemplateConfig = {
           title: "Download the App",
           subtitle:
               "Get started by downloading N3xG3n Chatbot from the Google Play Store. It's quick, free, and installs in seconds.",
-          image: "/stock/01.webp",
+          image: "/stock/1.jpg",
         },
         {
           title: "Start Free Trial",
@@ -133,25 +133,25 @@ const templateConfig: TemplateConfig = {
           title: "Chat Freely with AI",
           subtitle:
               "Use the chatbot to ask anything. A green circle means it's online. Try voice input or select a personality or language — N3xG3n adapts instantly.",
-          image: "/stock/04.webp",
+          image: "/stock/2.jpg",
         },
         {
           title: "Use Image GPT Chat",
           subtitle:
               "Snap or upload an image to ask complex questions. Get instant summaries or just request an 'answer only'. (📢 Please don’t use for exams!)",
-          image: "/stock/05.webp",
+          image: "/stock/04.webp",
         },
         {
           title: "Download Evolve",
           subtitle:
               "Install Evolve and sign up easily with Google. After setup, try the app completely free — ask questions or share your mood anytime.",
-          image: "/stock/06.webp",
+          image: "/stock/4.webp",
         },
         {
           title: "Stay Well for Less",
           subtitle:
               "If you love it, unlock everything in Evolve for just $0.99/month — no AI wellness app is more affordable.",
-          image: "/stock/07.webp",
+          image: "/stock/3.webp",
         },
       ],
 
