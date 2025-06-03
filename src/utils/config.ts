@@ -58,8 +58,8 @@ const templateConfig: TemplateConfig = {
       "Unlock the full potential of our services with seamless access at your fingertips. Stay connected, informed, and in control wherever you are.",
     screenshots: [
       "/screenshots/v.png",
-      "/screenshots/2.jpg",
-      "/screenshots/3.jpg",
+      "/screenshots/y.png",
+      "/screenshots/x.png",
     ],
   },
   home: {
@@ -70,32 +70,32 @@ const templateConfig: TemplateConfig = {
     testimonials: {
       id: "testimonials",
       title: "Testimonials",
-      subtitle: "Check out a few of our customer stories",
+      subtitle: "Check out a few of our customer reviews",
       cards: [
         {
           name: "Alice Johnson",
           comment:
-            "The service was fantastic! Highly recommended. The team was very professional and attentive to our needs. They went above and beyond to ensure we were satisfied with the results. I will definitely be using their services again in the future.",
+            "The apps are sleek, smart, and incredibly useful. N3xG3n AI is building tools that actually improve your life — not just fill space on your phone.",
         },
         {
           name: "Bob Smith",
           comment:
-            "Great value for the price. Very satisfied with the overall experience. The product quality is top-notch and the customer service is excellent. I appreciate the prompt responses to my inquiries and the helpful advice provided. Highly recommend.",
+            "Finally — apps that feel intelligent, not overwhelming. Every feature feels intentional and thoughtfully designed.",
         },
         {
           name: "Charlie Brown",
           comment:
-            "An excellent experience from start to finish. The onboarding process was smooth and the support team was very responsive. I felt valued as a customer and the results exceeded my expectations. I am impressed with the level of detail and care put into their work.",
+            "N3xG3n AI doesn’t just follow trends — it creates meaningful tools that integrate seamlessly into your day-to-day life",
         },
         {
           name: "Dana White",
           comment:
-            "Superb customer service and high-quality products. The team demonstrated great expertise and patience throughout the project. They addressed all my concerns and provided valuable insights. The end product was delivered on time and surpassed my expectations.",
+            "What stood out most? The speed, simplicity, and subtle intelligence baked into everything. These apps just work.",
         },
         {
           name: "Eve Adams",
           comment:
-            "I couldn't be happier with the results! The attention to detail and the level of customization provided was outstanding. The team was friendly and professional, making the entire process enjoyable. I highly recommend their services to anyone looking for top-quality work.",
+            "Using these apps feels like upgrading your lifestyle without the learning curve.",
         },
       ],
     },
