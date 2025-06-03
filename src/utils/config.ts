@@ -16,12 +16,12 @@ const templateConfig: TemplateConfig = {
   showThemeSwitch: true,
   apps: [
     {
-      name: "Evolve AI COMPANION",
+      name: "EVOLVE AI COMPANION",
       googlePlayLink: "https://play.google.com/store/apps/details?id=com.n3xg3nai.evolve",
       appStoreLink: "",
     },
     {
-      name: "N3X GEN AI BOT",
+      name: "N3X G3N AI BOT",
       googlePlayLink: "https://play.google.com/store/apps/details?id=com.n3xg3n.chatbot",
       appStoreLink: "",
     }
