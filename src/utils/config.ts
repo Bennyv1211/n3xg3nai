@@ -1,7 +1,7 @@
 import type { TemplateConfig } from "./configType";
 
 const templateConfig: TemplateConfig = {
-  name: "N3xG3n AI Solutions",
+  name: "N3X G3N AI",
   seo: {
     title: "N3xG3n AI – Smart Apps for Everyday Life",
     description: "Explore innovative mobile apps like Evolve and N3xG3n Chatbot — designed to elevate your wellness, productivity, and communication.",
@@ -186,28 +186,8 @@ const templateConfig: TemplateConfig = {
     },
     faq: {
       id: "faq",
-      title: "Frequently Asked Questions",
+      title: "Frequently Asked Question",
       qa: [
-        {
-          question: "How can I create an account on your website?",
-          answer:
-            "To create an account, click on the 'Sign Up' button located at the top right corner of our homepage. Fill in the required information, including your name, email address, and password. Once you submit the form, you will receive a confirmation email. Click the link in the email to verify your account, and you're all set!",
-        },
-        {
-          question: "What payment methods do you accept?",
-          answer:
-            "We accept a variety of payment methods to ensure convenience for our customers. These include major credit cards (Visa, MasterCard, American Express), PayPal, Apple Pay, and Google Pay. For more details, visit our Payments page.",
-        },
-        {
-          question: "How can I track my order?",
-          answer:
-            "Once your order is shipped, you will receive an email with a tracking number. You can use this tracking number on our website under the 'Track Order' section to see the current status and estimated delivery date of your package.",
-        },
-        {
-          question: "What is your return policy?",
-          answer:
-            "We offer a 30-day return policy for unused and unopened items. If you are not satisfied with your purchase, please contact our customer support team to initiate a return. Refunds will be processed within 7-10 business days after we receive the returned item.",
-        },
         {
           question: "How can I contact customer support? Or Delete my Account?",
           answer:
