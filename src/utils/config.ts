@@ -41,7 +41,6 @@ const templateConfig: TemplateConfig = {
     ],
   },
   topNavbar: {
-    cta: "Get the app",
     disableWidthAnimation: false,
     hideAppStore: false,
     hideGooglePlay: false,
