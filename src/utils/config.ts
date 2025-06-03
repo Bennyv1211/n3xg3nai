@@ -101,9 +101,9 @@ const templateConfig: TemplateConfig = {
       ],
     },
     partners: {
-      title: "As seen on",
+      title: "Get all apps on",
       logos: [
-        "/misc/companies/googleplay.svg",
+        "/misc/companies/google.png",
       ],
     },
     howItWorks: {
